@@ -1,2 +1,2 @@
-# TweeBot
-A Twitter Bot.
+# TeleBot
+A Telegram Bot that downloads media from YouTube.
